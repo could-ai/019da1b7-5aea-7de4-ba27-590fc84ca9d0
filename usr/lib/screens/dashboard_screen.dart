@@ -51,7 +51,7 @@ class DashboardScreen extends StatelessWidget {
                     const SizedBox(height: 16),
                     const _HabitsSummary(),
                     const SizedBox(height: 32),
-                    _buildSectionTitle(context, 'Today\\'s Tasks'),
+                    _buildSectionTitle(context, "Today's Tasks"),
                     const SizedBox(height: 16),
                     const _TodayTasksList(),
                   ],

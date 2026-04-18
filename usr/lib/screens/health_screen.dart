@@ -81,6 +81,7 @@ class _SectionHeader extends StatelessWidget {
       ),
     );
   }
+}
 
 class _AdviceCard extends StatelessWidget {
   final String title;
